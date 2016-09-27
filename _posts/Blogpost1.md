@@ -1,0 +1,9 @@
+Week 1 is in the books!
+
+Coming into this program I wasn’t sure what to expect. Coming from a biology background with no computer science courses and avoiding advanced mathematics at all costs I have to be honest I was pretty apprehensive going in. The material taught in this course is far outside my comfort zone. That being said I felt pretty stagnant in my old job and was itching to learn something new so it was a welcome challenge.
+
+The first week so far has been pretty manageable. I had done some of the prework in pandas, which was the main topic of this week so I already had some familiarity with the material. I’m sure as we advance into material I haven’t seen before (see linear regression analysis) I’ll have a harder time keeping up. 
+
+Project Benson was our first project, which involved using MTA turnstile data in New York to complete a project. We proposed a project where we were looking to register young voters. We found MTA stations close to colleges and tracked which of those stations were the busiest—using that as an indication of where our registrations teams would target. This project was really eye opening especially when considering cleanliness of data. There were many stations where data was faulty or nonsensical that needed to be thrown out. In addition I had worked with RNA sequencing data before and our team had really struggled on how to distill it down to answer a specific hypothesis. In this first week’s project we were able to ask a concise questions given a massive dataset and get out an answer. I was really proud of our team and our ability to work together to find a solution. With out our team troubleshooting I surely would have had a much harder time alone.
+
+In all, this week bolstered my confidence in my ability to learn quickly and apply those new skills to a task. Still a bit wary as we transition to data science topics involving higher level math, but excited for what lies ahead.
